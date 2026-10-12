@@ -4,6 +4,12 @@ Visualizador musical retro-futurista para **Windows 10/11**. Todo lo que ves est
 caracteres ASCII generados por código (nada de vídeos ni imágenes convertidas) y reacciona en
 tiempo real al audio de tu PC.
 
+## Captura de pantalla
+
+![ASCII-Vibes-Visualizer mostrando el efecto Vórtice](screenshots/vortex.png)
+
+Captura del efecto Vórtice.
+
 ## Instalador de Windows
 
 El proyecto incluye `build_installer.bat` y `installer\ASCII-Vibes-Visualizer.iss` para crear un
